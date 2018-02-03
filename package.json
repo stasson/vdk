@@ -3,6 +3,7 @@
   "description": "Vue Development Kit",
   "license": "MIT",
   "scripts": {
+    "postinstall": "lerna bootstrap --hoist",
     "commit": "git-cz"
   },
   "config": {
