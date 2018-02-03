@@ -1,0 +1,24 @@
+{
+  "name": "@vdk/template",
+  "version": "0.0.0",
+  "description": "vue project template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/stasson/vdk.git"
+  },
+  "keywords": [
+    "vue",
+    "dev",
+    "kit"
+  ],
+  "author": "stasson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stasson/vdk/issues"
+  },
+  "homepage": "https://github.com/stasson/vdk#readme"
+}

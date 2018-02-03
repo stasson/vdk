@@ -1,0 +1,9 @@
+{
+	"private": true,
+	"description": "Vue Development Kit",
+	"license": "MIT",
+	"scripts": {},
+	"devDependencies": {
+		"lerna": "^2.8.0"
+	}
+}
